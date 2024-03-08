@@ -20,6 +20,8 @@
   ### run 'npm i' to install required dependencies
 
   ## Usage:
+  [MySQL example.webm](https://github.com/astrodog5150/SQL-Employee-Tracker/assets/134658598/de4ed48f-5f05-46cf-a02b-8be7db296d98)
+
   ### run 'node server.js' and answer the prompts. 
 
   ## Contributers:
