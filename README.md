@@ -4,12 +4,16 @@
   ### 
 
   ## Table of Contents
+  ### * [Description](#description)
   ### * [License](#license)
   ### * [Installation](#installation)
   ### * [Usage](#usage)
   ### * [Contributers](#contributers)
   ### * [Tests](#tests)
   ### * [Questions](#Questions)
+
+  ## Description
+  ### This program can keep track of a company's employees, roles, and departments and make changes
 
   ## Installation:
   ### The following is required to run this app:
@@ -19,7 +23,7 @@
   ### run 'node server.js' and answer the prompts. 
 
   ## Contributers:
-  ### N/A
+  ### Jeremy Jarvis
 
   ## Tests: 
   ### N/A
